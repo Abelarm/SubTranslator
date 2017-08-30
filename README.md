@@ -1,4 +1,4 @@
-#Installation
+# Installation
 
 brew install opencv
 brew install tesseract
