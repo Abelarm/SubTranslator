@@ -1,6 +1,6 @@
-#Installation
+# Installation
 
-brew install opencv
-brew install tesseract
-
+brew install opencv <br>
+brew install tesseract<br>
+<br><br>
 pip install -r requirements.txt
